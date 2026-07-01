@@ -1,49 +1,51 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
-        board = [['.' for _ in range(n)] for _ in range(n)]
+        board = [["."] * n for _ in range(n)]
         solutions = []
 
-        def is_safe(row, col):
-
-            # Check column
-            for i in range(row):
-                if board[i][col] == 'Q':
+        def check(r, c, n):
+            for x in board[r]:
+                if x == "Q":
                     return False
-                
-            # Check the top of the left to the bottom of the right
-            r, c = row, col
-            while r >= 0 and c >= 0:
-                if board[r][c] == 'Q':
+            for row in range(n):
+                if board[row][c] == "Q":
                     return False
-                r -= 1
-                c -= 1
-
-            # Check the top of the right to the bottom of the left
-            r, c = row, col
-            while r >= 0 and c < n:
-                if board[r][c] == 'Q':
+            # up-right
+            for move in range(n):
+                row, col = r - move, c + move
+                if row < 0 or col >= n:
+                    break
+                if board[row][col] == "Q":
                     return False
-                r -= 1
-                c += 1
-
+            # up-left
+            for move in range(n):
+                row, col = r - move, c - move
+                if row < 0 or col < 0:
+                    break
+                if board[row][col] == "Q":
+                    return False
+            # down-right
+            for move in range(n):
+                row, col = r + move, c + move
+                if row >= n or col >= n:
+                    break
+                if board[row][col] == "Q":
+                    return False
             return True
-        
+
         def backtracking(row):
-            if n == row:
-                current_solution = ["".join(r) for r in board]
-                solutions.append(current_solution)
+            nonlocal n
+            if row == n:
+                res = []
+                for row in board:
+                    res.append("".join(row))
+                solutions.append(res)
                 return
-            
             for col in range(n):
-                if is_safe(row, col):
-                    # Mark Queen
+                if check(row, col, n):
                     board[row][col] = "Q"
-
-                    # Continue backtracking
                     backtracking(row + 1)
-
-                    # Test another way
-                    board[row][col] = '.'
-        
+                    board[row][col] = "."
+            return
         backtracking(0)
         return solutions
