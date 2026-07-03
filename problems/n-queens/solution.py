@@ -7,7 +7,7 @@ class Solution:
             for x in board[r]:
                 if x == "Q":
                     return False
-            for row in range(n):
+            for row in range(r):
                 if board[row][c] == "Q":
                     return False
             # up-right
@@ -21,13 +21,6 @@ class Solution:
             for move in range(n):
                 row, col = r - move, c - move
                 if row < 0 or col < 0:
-                    break
-                if board[row][col] == "Q":
-                    return False
-            # down-right
-            for move in range(n):
-                row, col = r + move, c + move
-                if row >= n or col >= n:
                     break
                 if board[row][col] == "Q":
                     return False
