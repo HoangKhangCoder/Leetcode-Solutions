@@ -1,6 +1,7 @@
 class Solution:
     def heightChecker(self, heights: List[int]) -> int:
         length = len(heights)
+        # This one is in the Bubble Sort Chapter, you can use .sort() or sorted() instead.
         def bubbleSort(nums: List[int], length) -> List[int]:
             n = length - 1
             hasSorted = False
@@ -13,7 +14,7 @@ class Solution:
             return nums
         
         sortedHeights = bubbleSort(copy.deepcopy(heights), length)
-        print(sortedHeights)
+
         cnt = 0
         for i in range(length):
             cnt += (sortedHeights[i] != heights[i])
