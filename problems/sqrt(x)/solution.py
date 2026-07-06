@@ -10,3 +10,4 @@ class Solution:
                 minN = mid + 1
             else:
                 maxN = mid - 1
+        return
