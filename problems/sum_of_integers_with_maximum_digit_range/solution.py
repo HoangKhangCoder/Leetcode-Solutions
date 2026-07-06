@@ -15,4 +15,3 @@ class Solution:
             if _nums[num] == maxRange:
                 s += num
         return s
-                
