@@ -3,7 +3,7 @@ name: Sync LeetCode Submissions
 on:
   workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công bất cứ lúc nào
   schedule:
-    - cron: '0 8 * * 6' # Tự động quét và up bài mới vào 8:00 sáng Thứ 7 hàng tuần
+    - cron: '0 0 * * *' # Tự động quét và up bài mới vào 00:00 sáng mỗi ngày
 
 jobs:
   build:
