@@ -9,6 +9,6 @@ class Solution:
                 if i == j:
                     dp[i][j] = 1
                 else:
-                    dp[i][j] = (i - 1) * dp[i - 1][j] + dp[i - 1][j - 1]
+                    dp[i][j] = ((i - 1) * dp[i - 1][j] + dp[i - 1][j - 1]) % MOD
 
         return (dp[n][k]) % MOD
