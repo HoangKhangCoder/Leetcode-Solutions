@@ -1,0 +1,20 @@
+name: Sync LeetCode Submissions
+
+on:
+  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công bất cứ lúc nào
+  schedule:
+    - cron: '0 8 * * 6' # Tự động quét và up bài mới vào 8:00 sáng Thứ 7 hàng tuần
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Sync Submissions
+        uses: joshcai/leetcode-sync@v1.5
+        with:
+          github-token: ${{ github.token }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          destination-folder: '' # Để trống để tạo thư mục bài tập ngay ngoài gốc giống LeetHub
+          commit-header: 'Sync LeetCode submission' # Tiêu đề commit gọn gàng giống LeetHub
