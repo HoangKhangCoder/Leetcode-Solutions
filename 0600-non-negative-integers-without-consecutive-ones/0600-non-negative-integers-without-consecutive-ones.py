@@ -3,7 +3,7 @@ class Solution:
         bin_n = bin(n)[2:]
         length = len(bin_n)
 
-        @lru_cache(None)
+        @cache
         def helper(i: int, is_tight: bool, prev_one: bool) -> int:
             if i == length:
                 return 1
