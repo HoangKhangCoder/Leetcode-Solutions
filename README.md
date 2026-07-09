@@ -25,6 +25,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
