@@ -1,6 +1,3 @@
-import gc
-gc.disable()
-
 class Solution:
     def findIntegers(self, n: int) -> int:
         bin_n = bin(n)[2:]
