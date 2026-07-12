@@ -7,10 +7,12 @@
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1288-remove-covered-intervals](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 <!---LeetCode Topics End-->
