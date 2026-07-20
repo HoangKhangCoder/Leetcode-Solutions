@@ -4,11 +4,7 @@ class Solution:
         m, n = len(grid), len(grid[0])
         setup = [[0] * n for _ in range(m)]
         for _ in range(k):
-            # for row in grid:
-                # print(" ".join(list(map(str, row))))
-            # print("=" * 30)
             new = deepcopy(setup)
-            # print(new)
             for i in range(m):
                 for j in range(n):
                         if i == m - 1 and j == n - 1:
