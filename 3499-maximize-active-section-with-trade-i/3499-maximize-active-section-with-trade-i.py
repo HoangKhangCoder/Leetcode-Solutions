@@ -20,14 +20,10 @@ class Solution:
                 zeroCon = 0
         prefix.append([zeroCon, oneCon][int(s[-1])])
         conGroups += 1
-        # print(prefix)
-        # print(conGroups)
         maxWay = ones
         for i in range(conGroups - 2):
             if prefix[i] > 0:
                 continue
-            # print(i)
             actives = abs(prefix[i]) + abs(prefix[i + 2]) + ones
-            # print(abs(prefix[i]), abs(prefix[i + 2]), oneConPrefix[i + 1])
             maxWay = max(maxWay, actives)
         return maxWay
