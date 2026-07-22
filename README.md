@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0066-plus-one](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1260-shift-2d-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0066-plus-one](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0858-mirror-reflection](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
