@@ -12,6 +12,7 @@
 | [1288-remove-covered-intervals](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -125,4 +127,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 <!---LeetCode Topics End-->
