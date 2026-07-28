@@ -90,6 +90,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -113,6 +114,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1768-merge-strings-alternately](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
