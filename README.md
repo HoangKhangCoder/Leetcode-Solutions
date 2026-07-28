@@ -92,6 +92,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -111,6 +112,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -126,6 +128,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -157,4 +160,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
