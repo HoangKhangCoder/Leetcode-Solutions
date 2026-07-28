@@ -8,23 +8,6 @@ class Trie:
             node = node.setdefault(c, {})
         node['.']=True
 
-
-    def search(self, word: str) -> bool:
-        node = self.root
-        for c in word:
-            if c not in node:
-                return False
-            node = node[c]
-        return '.' in node
-
-    def startsWith(self, prefix: str) -> bool:
-        node = self.root
-        for c in prefix:
-            if c not in node:
-                return False
-            node = node[c]
-        return True
-
 class Solution:
     def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
         rows, cols = len(board), len(board[0])
