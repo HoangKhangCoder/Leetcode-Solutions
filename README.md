@@ -33,6 +33,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -51,6 +52,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Combinatorics
@@ -151,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
