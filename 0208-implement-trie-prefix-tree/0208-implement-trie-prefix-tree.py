@@ -1,21 +1,30 @@
 class Trie:
 
     def __init__(self):
-        self.words = []
-        self.wordsSet = set()
+        self.root={}
 
     def insert(self, word: str) -> None:
-        self.words.append(word)
-        self.wordsSet.add(word)
+        node=self.root
+        for c in word:
+            node=node.setdefault(c, {})
+        node['end']=True
+
 
     def search(self, word: str) -> bool:
-        return word in self.wordsSet
+        node = self.root
+        for c in word:
+            if c not in node:
+                return False
+            node=node[c]
+        return 'end' in node
 
     def startsWith(self, prefix: str) -> bool:
-        for s in self.words:
-            if s.startswith(prefix):
-                return True
-        return False
+        node =self.root
+        for c in prefix:
+            if c not in node:
+                return False
+            node=node[c]
+        return True
 
 
 # Your Trie object will be instantiated and called as such:
