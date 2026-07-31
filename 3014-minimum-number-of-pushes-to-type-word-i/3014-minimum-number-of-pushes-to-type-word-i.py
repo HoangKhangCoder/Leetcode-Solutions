@@ -1,9 +1,5 @@
-from collections import Counter
 class Solution:
     def minimumPushes(self, word: str) -> int:
-        cnts = list(Counter(word).items())
-        cnts.sort(key=lambda pair: pair[1])
-        cnt = 0
-        for i, pair in enumerate(cnts):
-            cnt += (i // 8 + 1) * pair[1]
-        return cnt
+        n = len(word)
+        times = n // 8
+        return 8 * (times * (times + 1) // 2) + (n % 8) * (times + 1)
