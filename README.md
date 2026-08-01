@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1260-shift-2d-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -39,6 +40,7 @@
 | [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0858-mirror-reflection](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -58,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Combinatorics
@@ -123,6 +126,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +198,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
