@@ -132,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0146-lru-cache](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -160,6 +162,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -220,4 +223,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
