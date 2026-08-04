@@ -10,6 +10,7 @@
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1260-shift-2d-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -46,6 +47,7 @@
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0858-mirror-reflection](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -100,6 +102,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0858-mirror-reflection](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 ## Matrix
@@ -213,4 +216,8 @@
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
