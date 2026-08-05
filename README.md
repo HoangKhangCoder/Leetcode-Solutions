@@ -213,6 +213,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +228,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
