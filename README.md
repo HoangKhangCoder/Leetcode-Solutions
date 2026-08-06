@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
@@ -144,6 +145,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0146-lru-cache](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -185,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +253,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
