@@ -11,6 +11,7 @@
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0724-find-pivot-index](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0812-largest-triangle-area](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -134,6 +135,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
