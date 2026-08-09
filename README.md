@@ -15,6 +15,7 @@
 | [0812-largest-triangle-area](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -53,6 +54,7 @@
 | [0858-mirror-reflection](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0858-mirror-reflection/) | Medium |
 | [0877-stone-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -75,6 +77,7 @@
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0877-stone-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 ## Combinatorics
@@ -136,6 +139,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
+| [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -231,6 +235,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Polygons
 | Problem Name | Difficulty |
@@ -268,4 +273,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
