@@ -2,11 +2,11 @@ class Solution:
     def winnerSquareGame(self, n: int) -> bool:
 
         dp = [False] * (n + 1)
-        for i in range(1, n + 1):
+        for i in range(n + 1):
+            if dp[i]:
+                continue
             k = 1
-            while k ** 2 <= i:
-                if not dp[i - k ** 2]:
-                    dp[i] = True
-                    break
+            while i + k ** 2 <= n:
+                dp[i + k ** 2] = True
                 k += 1
         return dp[n]
