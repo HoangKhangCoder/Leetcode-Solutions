@@ -1,15 +1,12 @@
-from functools import cache
 class Solution:
     def winnerSquareGame(self, n: int) -> bool:
 
-        @cache
-        def dp(rem):
-            if rem == 0:
-                return False
+        dp = [False] * (n + 1)
+        for i in range(1, n + 1):
             k = 1
-            while k ** 2 <= rem:
-                if not dp(rem - k ** 2):
-                    return True
+            while k ** 2 <= i:
+                if not dp[i - k ** 2]:
+                    dp[i] = True
+                    break
                 k += 1
-            return False
-        return dp(n)
+        return dp[n]
