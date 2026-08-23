@@ -7,53 +7,68 @@ class Solution:
     def smallestPalindrome(self, s: str, k: int) -> str:
         counts = Counter(s)
 
-        forMid = []
+        # Determine which characters have an odd count (at most one such
+        # character is allowed for a valid palindrome) and how many of each
+        # character go into one side (sideCount = count // 2, the rest
+        # mirrors across the middle).
+        oddChars = []
         sideCount = {}
         for char in sorted(counts.keys()):
             if counts[char] % 2 == 1:
-                forMid.append(char)
+                oddChars.append(char)
             if counts[char] // 2 > 0:
                 sideCount[char] = counts[char] // 2
 
-        if len(forMid) > 1:
+        # If more than one character has an odd count, no palindrome can be formed.
+        if len(oddChars) > 1:
             return ""
-        midChar = forMid[0] if forMid else ""
+        midChar = oddChars[0] if oddChars else ""
 
         @cache
-        def getFactorial(n):
+        def factorial(n):
             return math.factorial(n)
 
-        totalLen = sum(sideCount.values())
+        halfLength = sum(sideCount.values())
 
-        def getTotalWays(countMap, totalN):
-            res = getFactorial(totalN)
-            for c in countMap.values():
-                if c > 1:
-                    res //= getFactorial(c)
-            return res
+        # Compute the number of distinct arrangements (permutations with
+        # repetition) of the characters in countMap, where totalN is the
+        # total number of elements.
+        def countArrangements(countMap, totalN):
+            arrangements = factorial(totalN)
+            for count in countMap.values():
+                if count > 1:
+                    arrangements //= factorial(count)
+            return arrangements
 
-        currentWays = getTotalWays(sideCount, totalLen)
+        remainingWays = countArrangements(sideCount, halfLength)
 
-        if k > currentWays:
+        # If k exceeds the total number of possible arrangements, the k-th
+        # palindrome doesn't exist -> return an empty string.
+        if k > remainingWays:
             return ""
 
-        side = []
-        currLen = totalLen
+        # Build the first half (halfPart) greedily in alphabetical order,
+        # similar to the classic "k-th permutation" algorithm: at each step,
+        # try placing the smallest remaining character; if the number of
+        # arrangements for that choice (ways) >= k, pick that character,
+        # otherwise subtract ways from k and try the next character.
+        halfPart = []
+        remainingLength = halfLength
 
-        for _ in range(totalLen):
+        for _ in range(halfLength):
             for char in sorted(sideCount.keys()):
                 charCount = sideCount[char]
                 if charCount > 0:
-                    ways = (currentWays * charCount) // currLen
+                    ways = (remainingWays * charCount) // remainingLength
 
                     if k <= ways:
-                        side.append(char)
+                        halfPart.append(char)
                         sideCount[char] -= 1
-                        currentWays = ways
-                        currLen -= 1
+                        remainingWays = ways
+                        remainingLength -= 1
                         break
                     else:
                         k -= ways
 
-        prefix = "".join(side)
+        prefix = "".join(halfPart)
         return prefix + midChar + prefix[::-1]

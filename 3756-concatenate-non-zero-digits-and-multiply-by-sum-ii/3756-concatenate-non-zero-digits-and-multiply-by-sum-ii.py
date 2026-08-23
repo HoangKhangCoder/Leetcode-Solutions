@@ -2,32 +2,52 @@ class Solution:
     def sumAndMultiply(self, s: str, queries: List[List[int]]) -> List[int]:
         n = len(s)
         mod = 10 ** 9 + 7
-        prev_sum = [0] * (n + 1)
-        prev_cnt = [0] * (n + 1)
-        prev_val = [0] * (n + 1)
 
-        cur_sum = 0
-        cur_cnt = 0
-        cur_val = 0
+        # For each position i (1-indexed into the prefix arrays), store 3
+        # prefix values computed over the non-zero digits of s[0..i-1]:
+        #   prefixSum[i]  : sum of the non-zero digits.
+        #   prefixCount[i]: count of the non-zero digits.
+        #   prefixValue[i]: the "value of concatenating the non-zero digits",
+        #                    represented modularly by multiplying each digit
+        #                    by the modular inverse of 10^position, so that
+        #                    the value over any subarray can be derived
+        #                    quickly via a difference.
+        prefixSum = [0] * (n + 1)
+        prefixCount = [0] * (n + 1)
+        prefixValue = [0] * (n + 1)
+
+        curSum = 0
+        curCount = 0
+        curValue = 0
         for i in range(n):
-            d = int(s[i])
-            if d != 0:
-                cur_sum += d
-                cur_cnt += 1
-                inv_pow = pow(10, -cur_cnt, mod)
-                cur_val = (cur_val + d * inv_pow) % mod
-            prev_sum[i + 1] = cur_sum
-            prev_cnt[i + 1] = cur_cnt
-            prev_val[i + 1] = cur_val
-        res = []
-        for l, r in queries:
-            total = prev_sum[r + 1] - prev_sum[l]
-            if total <= 0:
-                res.append(0)
-                continue
-            sigma = (prev_val[r + 1] - prev_val[l]) % mod
-            num_0 = pow(10, prev_cnt[r + 1], mod)
-            x = (num_0 * sigma) % mod
-            res.append((x * total) % mod)
+            digit = int(s[i])
+            if digit != 0:
+                curSum += digit
+                curCount += 1
+                # Multiply digit by 10^(-curCount) (mod) so that when we
+                # later combine several digits, we can "shift" the value by
+                # multiplying with the appropriate power of 10.
+                invPow = pow(10, -curCount, mod)
+                curValue = (curValue + digit * invPow) % mod
+            prefixSum[i + 1] = curSum
+            prefixCount[i + 1] = curCount
+            prefixValue[i + 1] = curValue
 
-        return res
+        result = []
+        for left, right in queries:
+            total = prefixSum[right + 1] - prefixSum[left]
+            if total <= 0:
+                result.append(0)
+                continue
+
+            # Difference of the "encoded" values for the range [left, right]
+            # (normalized by the modular inverse computed above).
+            sigma = (prefixValue[right + 1] - prefixValue[left]) % mod
+            # Multiply back by 10^(number of non-zero digits from the start
+            # up to right) to recover the actual concatenated value for the
+            # range [left, right].
+            scale = pow(10, prefixCount[right + 1], mod)
+            joinedValue = (scale * sigma) % mod
+            result.append((joinedValue * total) % mod)
+
+        return result

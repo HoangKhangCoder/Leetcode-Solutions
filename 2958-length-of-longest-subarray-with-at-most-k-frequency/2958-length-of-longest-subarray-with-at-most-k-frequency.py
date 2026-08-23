@@ -1,14 +1,23 @@
 class Solution:
     def maxSubarrayLength(self, nums: List[int], k: int) -> int:
-        l = r = 0
-        res = k
-        cnts = {}
-        while r < len(nums):
-            num = nums[r]
-            cnts[num] = cnts.get(num, 0) + 1
-            while cnts[num] > k:
-                cnts[nums[l]] -= 1
-                l += 1
-            res = max(r - l + 1, res)
-            r += 1
-        return res
+        # Sliding window technique: expand the right pointer to add elements;
+        # when the frequency of the element just added exceeds k, shrink the
+        # window from the left until the frequency becomes valid again. The
+        # largest valid window length seen is the answer.
+        leftPtr = rightPtr = 0
+        result = k
+        counts = {}
+
+        while rightPtr < len(nums):
+            num = nums[rightPtr]
+            counts[num] = counts.get(num, 0) + 1
+
+            # If the current element's frequency exceeds k, shrink the window from the left
+            while counts[num] > k:
+                counts[nums[leftPtr]] -= 1
+                leftPtr += 1
+
+            result = max(rightPtr - leftPtr + 1, result)
+            rightPtr += 1
+
+        return result
