@@ -21,6 +21,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1406-stone-game-iii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -64,6 +65,7 @@
 | [1406-stone-game-iii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
+| [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -91,6 +93,7 @@
 | [1406-stone-game-iii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
+| [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -259,6 +263,7 @@
 | [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Polygons
@@ -302,12 +307,14 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
