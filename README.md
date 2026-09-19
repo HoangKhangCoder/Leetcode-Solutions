@@ -49,6 +49,7 @@
 | [1288-remove-covered-intervals](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -159,6 +160,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -201,6 +203,7 @@
 | [0146-lru-cache](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -277,6 +280,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
