@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
