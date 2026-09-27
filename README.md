@@ -160,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
