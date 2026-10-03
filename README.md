@@ -104,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
@@ -166,6 +167,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -393,6 +395,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
@@ -400,6 +403,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Algorithm X
