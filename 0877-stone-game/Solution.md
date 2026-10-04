@@ -1,4 +1,4 @@
-# 💡 [Python] 1-Line O(1) Solution | Detailed Mathematical Proof 🧠
+# 💡 [Python-C++-Java-Ruby-Go] 1-Line O(1) Solution | Detailed Mathematical Proof 🧠
 
 
 # 💡O(1) Solution | Detailed Mathematical Proof 🧠
