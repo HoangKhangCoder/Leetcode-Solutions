@@ -4,6 +4,23 @@
 # 💡O(1) Solution | Detailed Mathematical Proof 🧠
 ![Screenshot 2026-08-02 at 08.49.04.png](https://assets.leetcode.com/users/images/547ea98c-b261-4f35-9a2b-e63b37744f01_1785635363.0753534.png)
 
+
+### 💡 Hidden Hints (Click to expand)
+
+<details>
+<summary>Hint 1</summary>
+
+Can Alice split the piles into 2 groups that she can completely control?
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+If Alice divides the piles into odd indices and even indices and chooses the larger group, how can she force Bob to take the other group?
+</details>
+
+---
+
 ### ⚡ Direct Answer First
 The answer is always `return True`. Since the number of piles is even and the total number of stones is odd, Alice (the first player) can **always** force a win by choosing a strategy that Bob cannot counter.
 
@@ -88,16 +105,4 @@ func stoneGame(piles []int) bool {
 
 ---
 
-### 💡 Hidden Hints (Click to expand)
-
-<details>
-<summary>Hint 1</summary>
-
-Can Alice split the piles into 2 groups that she can completely control?
-</details>
-
-<details>
-<summary>Hint 2</summary>
-
-If Alice divides the piles into odd indices and even indices and chooses the larger group, how can she force Bob to take the other group?
-</details>
+#UPVOTE, PLS
