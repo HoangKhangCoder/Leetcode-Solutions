@@ -127,6 +127,7 @@
 | [0051-n-queens](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -338,6 +340,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
