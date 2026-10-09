@@ -181,6 +181,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -307,6 +308,7 @@
 | [0678-valid-parenthesis-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -411,6 +413,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -423,6 +426,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
