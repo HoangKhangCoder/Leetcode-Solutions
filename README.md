@@ -37,6 +37,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -200,6 +201,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -284,6 +286,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -456,4 +459,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 <!---LeetCode Topics End-->
