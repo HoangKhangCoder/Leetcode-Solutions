@@ -99,6 +99,7 @@
 | [1927-sum-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -201,6 +202,7 @@
 | [1768-merge-strings-alternately](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
