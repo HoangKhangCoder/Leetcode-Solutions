@@ -45,6 +45,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -134,6 +135,7 @@
 | [1510-stone-game-iv](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -186,6 +188,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1260-shift-2d-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
