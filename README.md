@@ -12,6 +12,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0724-find-pivot-index](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0724-find-pivot-index/) | Easy |
@@ -88,6 +89,7 @@
 | [0070-climbing-stairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0812-largest-triangle-area/) | Easy |
