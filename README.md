@@ -22,6 +22,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1140-stone-game-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -198,6 +199,7 @@
 | [0212-word-search-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0883-projection-area-of-3d-shapes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1260-shift-2d-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -344,6 +346,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -380,6 +383,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Game Theory
@@ -405,6 +409,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Graph Theory
@@ -466,6 +471,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
