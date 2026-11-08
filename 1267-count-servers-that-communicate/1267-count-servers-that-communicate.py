@@ -10,7 +10,7 @@ class Solution:
                 if cur == 1:
                     break
             colsValid.append(cur)
-        print(colsValid)
+
         cnt = 0
         for row in range(len(grid)):
             for col in range(len(grid[0])):
