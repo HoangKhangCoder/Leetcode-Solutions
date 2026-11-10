@@ -51,6 +51,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -148,6 +149,7 @@
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | Hard |
 | [1872-stone-game-viii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
