@@ -1,11 +1,7 @@
 class Solution:
     def countNonDecreasingSubarrays(self, nums: List[int], k: int) -> int:
         n = len(nums)
-
-        # Reverse the array so we can use a sliding window
         nums.reverse()
-
-        # Monotonic stack of (value, count)
         st = []
         left = 0
         cost = 0
