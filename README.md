@@ -46,6 +46,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -245,6 +246,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -295,6 +297,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -404,6 +407,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -452,6 +456,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
