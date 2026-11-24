@@ -48,6 +48,7 @@
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -131,6 +132,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -186,6 +188,7 @@
 | [1291-sequential-digits](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -199,6 +202,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2523-closest-prime-numbers-in-range](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Geometry
@@ -498,6 +502,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HoangKhangCoder/Leetcode-Solutions/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
